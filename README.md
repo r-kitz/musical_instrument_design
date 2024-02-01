@@ -7,4 +7,4 @@ Spring 2024 course at Tufts University, taught by Chris Rogers
 
 **Project 2:** LabVIEW Timbre Synthesizer, with Jack Goldberg, 1 week (see [docs](https://rosekitz.notion.site/LabVIEW-Synthesizer-bfbf380b23424df68861fbed7e76fd21))
 
-![LabVIEW Spectrum Analyzer](Project 2 - LabVIEW Timbre Synthesizer/timbre_synthesizer_labivew_frontpanel.png)
+![LabVIEW Spectrum Analyzer](images/spectrum_analyzer_frontpanel.png)
